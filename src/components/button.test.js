@@ -49,6 +49,8 @@ describe('<Button />', () => {
     });
 });
 
+https://github.com/Thinkful-Ed/react-button-click-test-challenge/tree/solution
+
 https://jestjs.io/docs/en/expect.html
 */
 
